@@ -1,6 +1,6 @@
 # Naming Convention
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Syntax Basics](./index.md)
 
 use camelCase and always start your name with a letter.
 

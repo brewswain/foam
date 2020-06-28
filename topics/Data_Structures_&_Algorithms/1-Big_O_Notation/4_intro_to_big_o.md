@@ -1,6 +1,6 @@
 # Introduction to Big O
 
-## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)/[Big O Notation](./index.md)
 
 Big O is a way to normalize fuzzy counting. It allows us to talk formally about how the runtime of an algorithm grows as the inputs grow.
 

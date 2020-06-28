@@ -1,6 +1,6 @@
 # Logarithms
 
-## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)/[Big O Notation](./index.md)
 
 Be warned, here lieth the math.
 

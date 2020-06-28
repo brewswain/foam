@@ -1,6 +1,6 @@
 # Intro to Big O
 
-## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)/[Big O Notation](./index.md)
 
 Big O notation is something that's extremely important to algorithms overall as it quantifies the performance of each of our solutions.
 

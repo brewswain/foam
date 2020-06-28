@@ -1,6 +1,6 @@
 # Let's make a game!
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Conditionals & Loops](./index.md)
 
 Our goal is to make a variant of "High/Low" with the number pool being from 1 - 100.
 

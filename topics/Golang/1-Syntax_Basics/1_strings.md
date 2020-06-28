@@ -1,6 +1,6 @@
 # Strings
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Syntax Basics](./index.md)
 
 Go allows us to pass strings as arguments to Println. Strings can be defined directly within our code using string literals--text between double quotation marks that Go will treat as a string.
 

@@ -1,6 +1,6 @@
 # Calling Methods
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Conditionals & Loops](./index.md)
 
 Before we go into details of conditionals etc, we should have a basic understanding of how methods work in Go, cause they're similar enough to other languages like JS that the differences are actually more jarring.
 

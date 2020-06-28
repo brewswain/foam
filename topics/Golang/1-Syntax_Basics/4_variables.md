@@ -1,6 +1,6 @@
 # Variables
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Syntax Basics](./index.md)
 
 quite simply, you declare variables in Go using the `var` kayword.
 

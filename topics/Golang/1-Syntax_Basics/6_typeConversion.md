@@ -1,6 +1,6 @@
 # Type Conversions
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Syntax Basics](./index.md)
 
 Just like other languages, math and comparison operations in Go require that the included values be of the same type. If they're not you'll get an error message:
 

@@ -1,6 +1,6 @@
 # Timing Our Code
 
-## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)/[Big O Notation](./index.md)
 
 As an example, let's suppose that we want to write a function that calculates the sum of all numbers from 1 up to (and including) some number _n_.
 

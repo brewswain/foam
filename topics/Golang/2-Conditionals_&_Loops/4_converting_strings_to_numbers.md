@@ -1,6 +1,6 @@
 # Converting Strings to numbers
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Conditionals & Loops](./index.md)
 
 Returning to our grading program logic that we've been writing, let's add some logic that'll determine whether the grade that the user inputs is passing or failing:
 

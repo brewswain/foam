@@ -1,6 +1,6 @@
 # Blocks
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Conditionals & Loops](./index.md)
 
 Now that we've converted the user's grade input over to a float64 value, the conditional should be able to determine if it's passing or failing.
 

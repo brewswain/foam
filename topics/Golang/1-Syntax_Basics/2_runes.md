@@ -1,6 +1,6 @@
 # Runes
 
-## [Topics](../../../topics.md)/[Golang](../index.md)
+## [Topics](../../../topics.md)/[Golang](../index.md)/[Syntax Basics](./index.md)
 
 While strings are used to represent a _series_ of text characters, Go uses **_runes_** to represent single characters.
 String literals are wrapped by double quotation marks(""), but rune literals are written with singly quotation marks('').
