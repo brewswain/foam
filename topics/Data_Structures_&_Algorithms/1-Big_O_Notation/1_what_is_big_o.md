@@ -1,5 +1,7 @@
 # Intro to Big O
 
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+
 Big O notation is something that's extremely important to algorithms overall as it quantifies the performance of each of our solutions.
 
 ## Section Objectives
@@ -18,3 +20,4 @@ For every topic in this course, there are multiple solutions that can work for m
 This is incredibly useful for us in the interview process, as coming up with an **efficient** answer to whatever problem is asked of us to solve is as important as making sure said solution works in the first place. Of course, this is also really important for working on solutions to large scale, but for the sake of this repo, let's keep it in mind that this is all really useful for interviews.
 
 It's also good for discussing trade-offs between different approaches.
+

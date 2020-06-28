@@ -1,5 +1,7 @@
 # Timing Our Code
 
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+
 As an example, let's suppose that we want to write a function that calculates the sum of all numbers from 1 up to (and including) some number _n_.
 
 eg: myFunction(3) should equal 1+2+3.
@@ -89,3 +91,4 @@ However, this process **isn't** particularly reliable. Manually timing stuff bef
 - For fast algorithms, speed measurements may not be fast enough.
 
 Timing our code is definitely still useful, but it would definitely bring us more value if we had an alternate method of measuring, wouldn't it? (foreshadowing alert, look at the next file for our solution to this problem)
+

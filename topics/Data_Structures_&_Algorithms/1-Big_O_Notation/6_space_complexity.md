@@ -1,5 +1,7 @@
 # Space Complexity
 
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+
 So far, everything that we've been worrying about has been with reference to time; how fast the algorithm runs. That's called time complexity. Now let's talk about the space that the algorithm takes up as the size of the input increases.
 
 We can still use Big O notation to analyze space complexity--i.e. the amount of additional memory we need to allocate in order to run the code in our algorithm.
@@ -24,7 +26,7 @@ function sum(arr) {
 }
 ```
 
-Keep in mind that we're focusing on space complexity here. 
+Keep in mind that we're focusing on space complexity here.
 
 This function takes an array and sums all of the items in said array. No matter what array length, we have one variable called total. Inside the for loop, we have a single declaration(let i = 0). That's it for space!
 
@@ -46,4 +48,5 @@ This function takes an array, and it doubles the value of each item inside of ou
 
 For space complexity, we make a new array, which is again one variable, and our single declaration of (let i = 0). However, inside of our loop, we're actually pushing to our newArray, which means that it's getting longer and longer with each iteration directly in proportion with the length of the input. For instance, if our input array has 50 items, we'll be increasing the length of our newArray by 50 items.
 
-This therefore means that the space we're taking up is directly proportional to the input, _n_, which means that once we simplify it from O(n + 2), we have O(n) space. 
+This therefore means that the space we're taking up is directly proportional to the input, _n_, which means that once we simplify it from O(n + 2), we have O(n) space.
+

@@ -1,5 +1,7 @@
 # Introduction to Big O
 
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+
 Big O is a way to normalize fuzzy counting. It allows us to talk formally about how the runtime of an algorithm grows as the inputs grow.
 
 We don't care about the details, only the broad trends (How _n_ affects our runtime, operations, assignments etc.)
@@ -15,11 +17,11 @@ We say that an algorithm is O(f(n)) if the number of simple operations the compu
 
 f(n) simply means a function with an input of _n_, with what's to the right of our `=` being our output btw
 
-This means, therefore that we're describing the relationship between the input and the runtime. 
+This means, therefore that we're describing the relationship between the input and the runtime.
 
 It could be linear, meaning that as _n_ scales, the runtime scales as well, which we've already seen. However, it could also be quadratic, where as _n_ grows, the runtime actually squares to the value of _n_ itself (That's pretty tricky). It could also be constant, where as _n_ grows, it doesn't have an input(We've seen this as well with our more efficient solution!). It could also be entirely different, which we'll check out later in this course.
 
-All of this means that when we talk about Big O, we're actually talking about the worst case scenario. We're talking about the upper bound for runtime. 
+All of this means that when we talk about Big O, we're actually talking about the worst case scenario. We're talking about the upper bound for runtime.
 
 Returning to our examples, if we were to look at:
 
@@ -78,18 +80,21 @@ for (let i =0; i < n; i++) {
     console.log(i);
 }
 ```
+
 Our first for loop, has roughly O(n) operations. As _n_ grows, so too will our runtime. The same thing goes for our second loop:
 
 ```
 for (let j = n - 1; j >= 0; j--) {
     console.log(j)
 }
-```    
+```
 
-Our initial thought might be our Big O is 2n: 
+Our initial thought might be our Big O is 2n:
+
 - O(2n)
 
 However, as previously discussed, we don't care about the magnitude of _n_ in this case as both are linear, so we actually just write our Big O as:
+
 - O(n)
 
 Let's work on one more example:
@@ -108,6 +113,7 @@ This approach is instantly interesting to us, as we have a nested loop. In this 
 
 This approach is really interesting, because as we expect, each of these individual loops are O(n). However, since the second loop is nested inside the first, this will actually give us something like:
 
-- O(n * n) which means O(n<sup>2</sup>).
+- O(n \* n) which means O(n<sup>2</sup>).
 
-So as _n_ grows larger, our runtime will increase proportionally to _n_ * _n_.
+So as _n_ grows larger, our runtime will increase proportionally to _n_ \* _n_.
+

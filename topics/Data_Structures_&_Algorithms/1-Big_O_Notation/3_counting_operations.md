@@ -1,5 +1,7 @@
 # Counting Operations
 
+## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+
 If we're not going to use time, then what should we do?
 
 Well, rather than counting the seconds that the code takes to run, we can count the _number of simple operations_ the computer has to perform!
@@ -42,3 +44,4 @@ That being said, we don't need to have a completely accurate counting of the min
 This is a lot, which means that counting these operations can be tricky. How do we generalize it? Well, there are calculations we can run (In this case, something like 5*n* + 2 should work out if we ran the operation 5 times [2 for the calculations that aren't gonna be looped]).
 
 That being said, regardless of the exact number, the number of operations grows roughly proportionally with _n_.
+
