@@ -1,5 +1,7 @@
 # Blocks
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 Now that we've converted the user's grade input over to a float64 value, the conditional should be able to determine if it's passing or failing.
 
 However, we have a pretty obvious error that we get:
@@ -74,3 +76,4 @@ A good solution seems to be to declare our status above our conditional blocks (
 The only thing to keep in mind here is that we made sure to change our variable declarations (:=) to assignment (=) inside of ouor conditionals.
 
 And now, at long last, our program should work!
+

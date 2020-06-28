@@ -1,5 +1,7 @@
 # Variables
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 quite simply, you declare variables in Go using the `var` kayword.
 
 Now, the interesting thingm about Go is that we can also declare the type of values that the variable will hold:
@@ -67,3 +69,4 @@ customerName := "Damon"
 There's now no need to explicitly declare the variable's type; **the type of the value assigned to the variable becomes the type of that variable.**
 
 Because short variable declarations are so convenient and concise, we'll probably see them used more often then regular declarations.
+

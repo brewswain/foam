@@ -1,5 +1,7 @@
 # Shadowing Names
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 If you're like me (considering that I wrote these notes for myself, that chance is pretty high), the fact that we're using `err` instead of `error` as our error variable is highly annoying as abbreviations are (to me) often simply lazy naming that makes it a bit harder to read code.
 
 ### However.
@@ -48,3 +50,4 @@ func main() {
 ```
 
 If this doesn't show you why shadowing sucks then you should probably just go wherever your heart tells you to and live freely tbh.
+

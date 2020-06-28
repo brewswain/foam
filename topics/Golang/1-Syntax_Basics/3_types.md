@@ -1,5 +1,7 @@
 # Types
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 Values in Go are stored in different Types, which specify what the values can be used for.
 Integers can be used for math operations, but strings can't, etc.
 
@@ -20,3 +22,4 @@ func main() {
     fmt.Println(reflect.TypeOf(42))
 }
 ```
+

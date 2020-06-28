@@ -1,5 +1,7 @@
 # Type Conversions
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 Just like other languages, math and comparison operations in Go require that the included values be of the same type. If they're not you'll get an error message:
 
 ```
@@ -32,3 +34,4 @@ float64(integer)
 
 The result is a new value of the desired type.
 Look at Conversions/ in our apps folder for an example of this.
+

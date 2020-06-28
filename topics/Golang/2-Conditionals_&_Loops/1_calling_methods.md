@@ -1,5 +1,7 @@
 # Calling Methods
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 Before we go into details of conditionals etc, we should have a basic understanding of how methods work in Go, cause they're similar enough to other languages like JS that the differences are actually more jarring.
 
 Let's look at this example below:
@@ -42,3 +44,4 @@ func main() {
 ```
 
 In this case, the strings.NewReplacer function takes arguments with a string to replace("#"), and a string to replace it with("o"), and returns a strings.Replacer. When we pass a string the that Replacer value's Replace method, it returns a string with those replacements made.
+

@@ -1,5 +1,7 @@
 # Let's make a game!
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 Our goal is to make a variant of "High/Low" with the number pool being from 1 - 100.
 
 ---
@@ -381,3 +383,4 @@ func main() {
 }
 
 ```
+

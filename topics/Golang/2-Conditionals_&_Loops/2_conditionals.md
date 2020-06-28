@@ -1,5 +1,7 @@
 # Conditionally running code
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 I assume you already know why you'd want conditionally run code, so let's just look at the scenario we're going to use to demonstrate this.
 
 We need to write a program that allows a student to type in their percentage grade and tells them whether they passed or not. Pretty simple concept, we'll put different responses based on whether or not the user passes or fails.
@@ -185,3 +187,4 @@ func main() {
 ```
 
 If we run our program now, we'll see that it's working again. Also, if we have any errors reading user input, we'll see those as well!
+

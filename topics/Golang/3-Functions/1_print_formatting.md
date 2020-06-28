@@ -1,5 +1,7 @@
 # Custom Functions
 
+## [Topics](../../../topics.md)/[Golang](../index.md)
+
 Functions are great. I know this, you(I) know this, the world knows this. So let's create some of our own functions. Of course, these will be leveraging some of the interesting things about go that we've learnt, like how to return multiple values. We'll also go over how to declare functions both with and without parameters, and finally, we'll learn about `pointers`.
 
 Pointers are brand new to me, but they're used to make more memory-efficient function calls.
@@ -181,3 +183,4 @@ func main() {
 ```
 
 We successfully fixed our output to look reasonable. However, this is still pretty inefficient, so in the next file we'll look at more directly linked function stuff.
+
