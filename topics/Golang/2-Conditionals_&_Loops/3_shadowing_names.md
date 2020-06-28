@@ -1,6 +1,6 @@
-# Shadowing Names
-
 ## [Topics](../../../topics.md)/[Golang](../index.md)/[Conditionals & Loops](./index.md)
+
+# Shadowing Names
 
 If you're like me (considering that I wrote these notes for myself, that chance is pretty high), the fact that we're using `err` instead of `error` as our error variable is highly annoying as abbreviations are (to me) often simply lazy naming that makes it a bit harder to read code.
 

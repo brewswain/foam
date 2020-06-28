@@ -1,6 +1,6 @@
-# Section Recap
-
 ## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)/[Big O Notation](./index.md)
+
+# Section Recap
 
 - To analyze the performance of an algorithm, we use Big O Notation.\*\*\*\*
 - Big O notation can give us a high level understanding of the time or space complexity of an algorithm.

@@ -1,6 +1,6 @@
-# Simplifying Big O Expressions
-
 ## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)/[Big O Notation](./index.md)
+
+# Simplifying Big O Expressions
 
 Let's talk about simplifying Big O expressions.
 

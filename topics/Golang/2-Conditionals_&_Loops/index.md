@@ -1,6 +1,6 @@
-# Conditionals & Loops
-
 ## [Topics](../../../topics.md)/[Golang](../index.md)
+
+# Conditionals & Loops
 
 1. [Calling Methods](1_calling_methods.md)
 2. [Conditionals](2_conditionals.md)

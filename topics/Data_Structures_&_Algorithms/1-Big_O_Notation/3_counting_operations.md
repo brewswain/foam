@@ -1,6 +1,6 @@
-# Counting Operations
-
 ## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)/[Big O Notation](./index.md)
+
+# Counting Operations
 
 If we're not going to use time, then what should we do?
 

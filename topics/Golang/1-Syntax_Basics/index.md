@@ -1,6 +1,6 @@
-# Syntax Basics
-
 ## [Topics](../../../topics.md)/[Golang](../index.md)
+
+# Syntax Basics
 
 1. [Strings](1_strings.md)
 2. [Runes](2_runes.md)

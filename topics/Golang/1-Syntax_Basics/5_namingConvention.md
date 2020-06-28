@@ -1,6 +1,6 @@
-# Naming Convention
-
 ## [Topics](../../../topics.md)/[Golang](../index.md)/[Syntax Basics](./index.md)
+
+# Naming Convention
 
 use camelCase and always start your name with a letter.
 

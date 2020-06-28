@@ -1,6 +1,6 @@
-# Space Complexity
-
 ## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)/[Big O Notation](./index.md)
+
+# Space Complexity
 
 So far, everything that we've been worrying about has been with reference to time; how fast the algorithm runs. That's called time complexity. Now let's talk about the space that the algorithm takes up as the size of the input increases.
 

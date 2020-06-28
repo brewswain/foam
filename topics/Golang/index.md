@@ -1,6 +1,6 @@
-# Table of Content
-
 ## [&larr; Topics](../../topics.md)
+
+# Table of Content
 
 1. [Syntax Basics](1-Syntax_Basics/index.md)
 2. [Conditionals & Loops](2-Conditionals_&_Loops/index.md)

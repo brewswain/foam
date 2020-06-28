@@ -1,6 +1,6 @@
-# Big O Notation
-
 ## [Topics](../../../topics.md)/[Data Structure & Algorithms](../index.md)
+
+# Big O Notation
 
 1. [What is Big O](1_what_is_big_o.md)
 2. [Timing Our Code](2_timing_our_code.md)

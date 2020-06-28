@@ -1,6 +1,6 @@
-# Custom Functions
-
 ## [Topics](../../../topics.md)/[Golang](../index.md)/[Functions](./index.md)
+
+# Custom Functions
 
 Functions are great. I know this, you(I) know this, the world knows this. So let's create some of our own functions. Of course, these will be leveraging some of the interesting things about go that we've learnt, like how to return multiple values. We'll also go over how to declare functions both with and without parameters, and finally, we'll learn about `pointers`.
 
