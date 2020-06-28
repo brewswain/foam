@@ -1,12 +1,9 @@
 # Foam
 
-👋 Welcome to your new Foam Workspace!
-
 ## Table of Contents
 
 - [[inbox]] - My disorganized notes
 - [[todo]]
-- [[hello]]
 - [[topics]] - Directory of more specific topics, such as language specific notes
 - [[toolbox]] - In the future, this will be a markdown that has code snippets of my most reused components like CustomButton, etc
 - [[todo_tips]]
